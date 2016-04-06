@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (3.0.0)
+  - ProjectOxfordFace (1.0)
+
+DEPENDENCIES:
+  - Alamofire (= 3.0.0)
+  - ProjectOxfordFace
+
+SPEC CHECKSUMS:
+  Alamofire: b61782387f81bcc538a0284cf2bb5d7995cd0a80
+  ProjectOxfordFace: 6ee1f7b0a39b5d1cba20cf100d8f9d11ad264790
+
+COCOAPODS: 0.39.0
